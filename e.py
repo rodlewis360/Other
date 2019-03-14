@@ -1,5 +1,5 @@
 def e():
-    from time import sleep()
+    from time import sleep
     print("What set of multiples would you like to have a list of?")
     exponent = int(input())
     n = 1
